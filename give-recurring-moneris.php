@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Give - Recurring Donations - Moneris gateway 
- * Plugin URI:  https://profiles.wordpress.org/alexsmithbr/
+ * Plugin URI:  https://github.com/alexsmithbr/give-recurring-moneris
  * Description: Enable recurring payments for Moneris gateway in the GiveWP donation plugin.
  * Version:     1.0.0
  * Author:      Alex Smith
