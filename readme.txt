@@ -1,4 +1,4 @@
-=== Give - Recurring Donations - Moneris gateway ===
+=== Recurring Donations - Moneris gateway for Give ===
 Contributors: alexsmithbr
 Tags: donations, donation, ecommerce, e-commerce, fundraising, fundraiser, paymill, gateway, moneris
 Requires at least: 5.5
